@@ -1,7 +1,6 @@
-flask
-flask_cors
-together
-pydantic
-deep_translator
-uuid
-gunicorn
+google-generativeai 
+flask 
+flask-cors 
+pydantic 
+deep-translator 
+python-dotenv
